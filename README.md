@@ -27,7 +27,7 @@
 ## 🛠️ Skills & Tools
 
 - **Programming Languages:** C/C++, JavaScript, Python, Java.
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap.
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap.
 - **Backend:** Django, REST-API.
 - **Other (Familiar):** Numpy, Pandas, Matplotlib, Figma.
 

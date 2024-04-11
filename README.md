@@ -46,7 +46,7 @@
 - **LinkedIn:** [in/spsomnath](https://www.linkedin.com/in/spsomnath/)
 - **Phone:** +91 7004830116
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=spsomnath&theme=transparent&hide_)](https://git.io/streak-stats)
+
 
 
 

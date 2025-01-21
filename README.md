@@ -40,7 +40,7 @@
 
 ## 📧 Let's Connect
 
-- **Website:** [codeonsp.me](https://codeonsp.me)
+- **Website:** [codeonsp.me](https://codeonsp.site)
 - **Email:** spsomnath100@gmail.com
 - **GitHub:** [spsomnath](https://github.com/spsomnath)
 - **LinkedIn:** [in/spsomnath](https://www.linkedin.com/in/spsomnath/)

@@ -43,7 +43,7 @@
 - **Website:** [codeonsp.tech](https://codeonsp.tech)
 - **Email:** spsomnath100@gmail.com
 - **GitHub:** [spsomnath](https://github.com/spsomnath)
-- **LinkedIn:** [in/spsomnath](https://www.linkedin.com/in/spsomnath/)
+- **LinkedIn:** [in/spsomnath](www.linkedin.com/in/somnath-prajapati-9604761b0)
 - **Phone:** +91 7004830116
 
 

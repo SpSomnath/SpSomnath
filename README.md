@@ -44,7 +44,7 @@
 - **Email:** spsomnath100@gmail.com
 - **GitHub:** [spsomnath](https://github.com/spsomnath)
 - **LinkedIn:** [in/Somnath-prajapati](https://www.linkedin.com/in/somnath-prajapati-9604761b0/)
-- **Phone:** +91 7004830116
+
 
 
 
